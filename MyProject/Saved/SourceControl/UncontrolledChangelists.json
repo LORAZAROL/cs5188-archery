@@ -5,14 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/cs5188/Documents/UEProject/cs5188-archery/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/cs5188/Documents/UEProject/cs5188-archery/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/cs5188/Documents/UEProject/cs5188-archery/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/cs5188/Documents/UEProject/cs5188-archery/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/cs5188/Documents/UEProject/cs5188-archery/MyProject/Content/LevelPrototyping/Assets/Bow/BOWunreal_PhysicsAsset.uasset",
+				"C:/Users/cs5188/Documents/UEProject/cs5188-archery/MyProject/Content/LevelPrototyping/Assets/Arrow/arrowyfbx.uasset",
 				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Assets/Arrow/Material_005.uasset",
 				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Assets/Bow/BOW_DefaultMaterial_Metallic.uasset",
 				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Assets/Bow/BOW_DefaultMaterial_Roughness.uasset",
 				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Assets/Bow/M_arrow.uasset",
 				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Assets/Bow/BOWunreal.uasset",
-				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
 				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Assets/Archery_target/01___Default.uasset",
 				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Assets/Archery_target/10480_Archery_target_v1_Diffuse.uasset",
 				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Assets/Archery_target/10480_Archery_target_v1_max2011_iteration-2.uasset",
@@ -24,8 +31,7 @@
 				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Assets/Bow/BOW_DefaultMaterial_Normal.uasset",
 				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Assets/Bow/BOWunreal_PhysicsAsset.uasset",
 				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Assets/Bow/BOWunreal_Skeleton.uasset",
-				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Assets/Archery_target/TEX_10480_Archery_target_v1_Diffuse.uasset",
-				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/cs5188/Documents/Unreal Projects/MyProject/Content/LevelPrototyping/Assets/Archery_target/TEX_10480_Archery_target_v1_Diffuse.uasset"
 			]
 		}
 	]
